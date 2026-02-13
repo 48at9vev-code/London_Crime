@@ -31,7 +31,9 @@ The repository contains 2 notebooks:
 3. Different type of crime concentrated in some particular areas
 ## Project Plan
 ---
-The dataset will be extracted from downloaded files, joined and loaded in PostgreSQL database for learning purposes. On completing this task any necessary data cleaning and pre-processing steps will be taking for the further analyses. A copy of the cleaned data will be saved for future use. The exploratory data analyses (EDA) will check the distributions of important variables, identify outliers and perform any necessary transformations. The GEO data will then be plotted on London map. The visualisation will provide insights into the relationship among crime data records, and helps in answering the hypotheses.
+The dataset will be extracted from downloaded files, joined and loaded in PostgreSQL database for learning purposes. On completing this task any necessary data cleaning and pre-processing steps will be taking for the further analyses. A copy of the cleaned data will be saved for future use.
+![The Diagram of created Database](/DB_Diagram.jpg)
+The exploratory data analyses (EDA) will check the distributions of important variables, identify outliers and perform any necessary transformations. The GEO data will then be plotted on London map. The visualisation will provide insights into the relationship among crime data records, and helps in answering the hypotheses.
 ## Rationale to map task requirements to data visualisations
 ---
 The data visualisations helps to understand how the type of crime related to its locating, the season trends and the crime spots concentration.
