@@ -43,7 +43,9 @@ The tasks were performed in Python (version 3.14.0) via VScode. Number of Python
 ## The conclusion
 ---
 1. The crime concentrated in the main central London areas. The busy is the area more crime is committed. We can see these areas on the London map well. The map can help to be caution when you walk through the dangerous zones.
+![The London crime map](/crime_map.png "The London map by crime type")
 2. There is no any significant change in crime number over the time. The crime is just slightly less in winter time.
+![Crime numbers in London](/crime_over_time.png "Crime numbers in London by type across 2024-2025 years")
 ## Ethical considerations
 ---
 All data is in the public domain and can be freely used. Ther datasets are cleaned for any private data. GDPR did not apply in this case.
